@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 4c658d501a2cc6f4db22df1934a55d85, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1631743197184
+    m_Localized: Ir a la siguiente escena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17289071640576
+    m_Localized: Ir a la siguiente escena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17899795857408
+    m_Localized: "Haga clic para reproducir la animaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18268278046720
+    m_Localized: Haga clic para reproducir sonido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23301988106240
+    m_Localized: "Haga clic para activar el bot\xF3n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
